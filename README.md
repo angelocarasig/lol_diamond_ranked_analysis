@@ -1,2 +1,2 @@
-# lol_diamond_ranked_analysis
-First 10 mins of Diamond-Ranked Games
+# League of Legends First 10 Mins of Ranked Games Analysis (Diamond ELO)
+Dataframe obtained from [Kaggle](https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min)
